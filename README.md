@@ -1,4 +1,11 @@
-### Hi there 👋
+# Nur Intan Alatas
+
+
+I'm Currently working on [Bukalapak](http://bukalapak.com/) as software engineer, I mix eye bags and chocolate to make web looks beautiful and functional. I love to learn about optimization and clean code 🌱
+
+I like studying so I can be grateful for every NP-hard problem He made✨
+
+Reach me through [twitter](https://twitter.com/nurintaaan), ocassionally write on [medium](https://medium.com/@nurintanalatas) and, I open for memes 😄
 
 <!--
 **Nurintaaan/Nurintaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
