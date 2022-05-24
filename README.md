@@ -3,7 +3,7 @@
 
 I'm Currently working on [Bukalapak](http://bukalapak.com/) as software engineer, I mix eye bags and chocolate to make web looks beautiful and functional 🌱
 
-Reach me through [twitter](https://twitter.com/nurintaaan), ocassionally write on [medium](https://medium.com/@nurintanalatas
+Reach me through [twitter](https://twitter.com/nurintaaan), ocassionally write on [medium](https://medium.com/@nurintanalatas).
 
 <!--
 **Nurintaaan/Nurintaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
