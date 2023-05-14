@@ -1,7 +1,7 @@
 # Nur Intan Alatas
 
 
-I'm Currently working on [Bukalapak](http://bukalapak.com/) as software engineer, I mix eye bags and chocolate to make web looks beautiful and functional 🌱
+I'm Currently working on [Paypay]([https://paypay.ne.jp/]) as software engineer, I mix eye bags and chocolate to make web looks beautiful and functional 🌱
 
 Reach me through [twitter](https://twitter.com/nurintaaan), ocassionally write on [medium](https://medium.com/@nurintanalatas).
 
